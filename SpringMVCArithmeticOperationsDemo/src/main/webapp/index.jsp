@@ -3,7 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd"><html>
 <body>
 	<center>
-		<h2>Addition, Division And VisitCount Form</h2>
+		<h2>Arithmetic Operations Form</h2>
 		<br>
 		
 		Choose operation
